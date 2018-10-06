@@ -1,3 +1,4 @@
  changed not commited this is the first commit in to git
 pulling form git to local
 changed
+from remote
